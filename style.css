@@ -287,6 +287,7 @@ header button:hover {
 .info-container {
     color: #22356F;
     grid-template-columns: repeat(auto-fit, minmax(480px, 1fr));
+    margin-bottom: 22px;
 }
 
 .info-block {
